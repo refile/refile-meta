@@ -1,0 +1,18 @@
+[submodule "refile"]
+	path = refile
+	url = https://github.com/refile/refile.git
+[submodule "refile-mini_magick"]
+	path = refile-mini_magick
+	url = https://github.com/refile/refile-mini_magick.git
+[submodule "refile-fog"]
+	path = refile-fog
+	url = https://github.com/refile/refile-fog.git
+[submodule "refile-memory"]
+	path = refile-memory
+	url = https://github.com/refile/refile-memory.git
+[submodule "refile-s3"]
+	path = refile-s3
+	url = https://github.com/refile/refile-s3.git
+[submodule "refile-sequel"]
+	path = refile-sequel
+	url = https://github.com/refile/refile-sequel.git
